@@ -37,9 +37,9 @@ I am an enthusiastic Full-Stack Developer passionate about innovative technologi
 
 
 ### Coursework
-- Data Structures and Algorithms
-- DBMS
-- Operating System
+- **Data Structures and Algorithms (DSA)**
+- **Database Maganament System (DBMS)**
+- **Operating System (OS)**
 
 ---
 
@@ -68,6 +68,8 @@ An interactive study tool that allows users to review and memorize information w
 ---
 
 ## 📜 Certifications
+- [**Internship Completion Certification**](https://drive.google.com/file/d/1LkECIfEHxPiJPUV3m9QWElU5L4Yf05Mn/view?usp=sharing)
+- [**Object Oriented Programming using Python**](https://drive.google.com/file/d/18bBfE5D0L0BjF4XohfuBHzYu1xBShrIu/view?usp=sharing)
 
 
 ---
