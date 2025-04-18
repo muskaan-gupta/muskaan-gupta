@@ -1,5 +1,5 @@
 # Hello, I'm Muskan Gupta! 👋
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=muskaan-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="muskaan-gupta" /> </p>
 I am an enthusiastic Full-Stack Developer passionate about innovative technologies and solving real-world problems through impactful projects.
 
 ---
