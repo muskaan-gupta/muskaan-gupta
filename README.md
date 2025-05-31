@@ -4,6 +4,7 @@
 </p>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskaan-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="muskaan-gupta" /> </p>
 
+
 <p align="center">  
   <a href="https://portfolio-tau-one-ldtneashdd.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
@@ -79,7 +80,13 @@
 ### 🎨 [CraftedNest](https://github.com/muskaan-gupta/CraftedNest)  
 **An online marketplace connecting artisans to customers**  
 - Tech Stack: Next.js, Node.js, MongoDB, Tailwind, Firebase  
-- Offers a responsive design and personalized experience for showcasing handcrafted products  
+- Offers a responsive design and personalized experience for showcasing handcrafted products
+
+### 🏃‍♀️‍➡️ [Fitlife-AI](https://github.com/muskaan-gupta/fitlife-ai)  
+**Responsive  virtual wellness coach web application**  
+- Tech Stack: React, TailwindCSS, Node.js, Express, MongoDB, (OpenAI) API
+- AI-powered fitness and wellness assistant that helps users achieve a healthier, more balanced lifestyle.
+- From personalized workout and meal suggestions to emotional wellness chat support, FitLifeAI provides a smart and supportive environment tailored to your unique goals.
 
 ### 📚 [Flashcard Learning Tool](https://app-flashlearn.onrender.com/)  
 **Flip-style flashcards for effective studying**  
@@ -93,12 +100,26 @@
 
 ---
 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muskaan-gupta&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muskaan-gupta&theme=chartreuse_dark&utcOffset=8) |
+|---|---|
+
+**Profile Views From[31-05-2025]**
+
+![Profile Views](https://profile-counter.glitch.me/muskaan-gupta/count.svg)
+
+
 ## 📊 GitHub Stats  
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=muskaan-gupta&show_icons=true&theme=tokyonight" alt="Muskan's GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskaan-gupta&layout=compact&theme=tokyonight" alt="Top Languages" />  
-</div>  
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=muskaan-gupta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="300px"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=muskaan-gupta&theme=vue-dark&hide_border=true" width="300px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskaan-gupta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300px"/></td>
+    </tr>
+  </table>
+</div>'
 
 ## 📈 GitHub Contribution Graph
 
