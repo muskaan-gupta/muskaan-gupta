@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskaan-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="muskaan-gupta" /> </p>
 
 <p align="center">  
-  <a href="[https://porfolio-lake-three.vercel.app/](https://portfolio-tau-one-ldtneashdd.vercel.app/)">
+  <a href="https://portfolio-tau-one-ldtneashdd.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-%23000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://leetcode.com/u/muskan_gupta67/">
