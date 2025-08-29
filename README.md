@@ -29,7 +29,7 @@
 
 🎓 **B.Tech in Computer Science Engineering** from [PSIT Kanpur](https://psit.ac.in) (2022 - 2026)  
 🧠 Passionate about **Web Development**, **Software Engineering**, and **Tech-Driven Innovation**  
-💻 Currently developing **[CraftedNest](https://github.com/muskaan-gupta/CraftedNest)** – a dynamic artisan marketplace  
+💻 Currently developing **[CraftedNest](https://crafted-nest.vercel.app/)** – a dynamic artisan marketplace  
 🧩 Open to collaborating on **tech projects** and **innovative applications**  
 📧 Reach me at **muskangupta7414@gmail.com**
 
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white">  
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">  
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  
-
+  <img src="https://img.shields.io/badge/-Redux-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">  
   <img src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">  
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">   
 </p>  
@@ -82,6 +82,10 @@
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/-ScikitLearn-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
+  
+  
 
 </p>
 
@@ -89,10 +93,17 @@
 
 ## 🚀 Featured Projects  
 
-### 🎨 [CraftedNest](https://github.com/muskaan-gupta/CraftedNest)  
+### 🎨 [CraftedNest](https://crafted-nest.vercel.app/)  
 **An online marketplace connecting artisans to customers**  
 - Tech Stack: Next.js, Node.js, MongoDB, Tailwind, Firebase  
 - Offers a responsive design and personalized experience for showcasing handcrafted products
+
+### ⚙️ [Machine and Deep Learning Project](https://github.com/muskaan-gupta/Machine-and-Deep-Learning-Projects)
+**Turning raw data into smart predictions: Regression, Classification & NLP in action.**
+- Tech Stack: Numpy, Pandas, Matplotlib, Python, Scikit-learn, TensorFlow
+- Titanic Ship Survival – Classification, Predict whether a passenger survived based on demographic and onboard data.
+- House Price Prediction – Regression, Predict final sale price of houses using numeric and categorical features.
+- Fake News Detection – NLP + Deep Learning,  Classify news articles as Fake or Real using text data.
 
 ### 🏃‍♀️‍➡️ [Fitlife-AI](https://github.com/muskaan-gupta/fitlife-ai)  
 **Responsive  virtual wellness coach web application**  
