@@ -82,8 +82,11 @@
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
+   <img src="https://img.shields.io/badge/-LLM-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/-TensorFlow-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/-ScikitLearn-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
+   <img src="https://img.shields.io/badge/-Natural Language Processing-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/-RAG-11557c?style=for-the-badge&logo=matplotlib&logoColor=white">
   
   
 
