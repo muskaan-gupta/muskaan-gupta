@@ -60,7 +60,10 @@
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white">  
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-JAVA-4479A1?style=for-the-badge&logo=JAVA&logoColor=white"> 
+  
+  
 </p>  
 
 ### 🚀 Frameworks & Tools  
@@ -130,22 +133,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muskaan-gupta&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muskaan-gupta&theme=chartreuse_dark&utcOffset=8) |
 |---|---|
 
-**Profile Views From[31-05-2025]**
 
-![Profile Views](https://profile-counter.glitch.me/muskaan-gupta/count.svg)
-
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=muskaan-gupta&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="300px"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=muskaan-gupta&theme=vue-dark&hide_border=true" width="300px"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskaan-gupta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300px"/></td>
-    </tr>
-  </table>
-</div>'
 
 ## 📈 GitHub Contribution Graph
 
