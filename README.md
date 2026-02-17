@@ -87,9 +87,6 @@
   <a href="https://leetcode.com/muskan_gupta67">
     <img src="https://leetcard.jacoblin.cool/muskan_gupta67?theme=catppuccinMocha&font=Stylish&ext=contest" alt="LeetCode Stats" width="400" height="280" style="margin: 10px;" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=muskaan-gupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" height="200" />
-
-  </a>
 </p>
 
 
@@ -99,14 +96,6 @@
 
 
 
----
-
-### Focus Areas
-
-- AI/ML Engineering
-- Full Stack Development
-- System Design
-- Data Science & Analytics
 ---
 
 ### 🏆 Key Achievements
